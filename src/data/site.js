@@ -20,9 +20,9 @@ export const BRAND = {
     },
     {
       label: 'Alternative line',
-      phone: '0711304302',
-      tel: '+263711304302',
-      whatsapp: 'https://wa.me/263711304302',
+      phone: '0712853757',
+      tel: '+263712853757',
+      whatsapp: 'https://wa.me/263712853757',
     },
   ]
   
